@@ -1,3 +1,5 @@
+## What are the meta tags?
+
 Meta tags in HTML provide metadata about the HTML document. They are typically used to specify page description, keywords, author, and other metadata. These tags are placed inside the `<head>` section of the HTML document. Here are some commonly used meta tags:
 
 1. **Description**: Provides a brief description of the page content. This is often used by search engines in their results.
